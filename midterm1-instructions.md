@@ -2,50 +2,6 @@
 
 Due Monday, February 28th by 5:00 pm.
 
-## Rules
-
-1.  Your solutions must be written up using the provided iPython
-    notebook file (`midterm1.ipynb)`, this file must include your code
-    and write up for each task.
-
-2.  This project is open book, open internet, closed other people. You
-    may use *any* online or book based resource you would like, but you
-    must include citations for any code that you use (directly or
-    indirectly). You *may not* consult with anyone else about this exam
-    other than the Lecturers or Tutors for this course - this includes
-    posting anything online. You may post questions on Piazza, general
-    questions are fine and can be posted publicly - any question
-    containing code should be posted privately.
-
-3.  If you receive help *or* provide help to any other student in this
-    course you will receive a grade of 0 for this assignment. Do not
-    share your code with anyone else in this course.
-
-4.  You have until Monday, February 28th by 5:00 pm to complete this
-    assignment and turn it in via your personal Github repo - late work
-    will be subject to the standard late penalty. Technical difficulties
-    are not an excuse for late work - do not wait until the last minute
-    to commit / push.
-
-5.  All of your answers *must* include a brief description / write up of
-    your approach. This includes both annotating / commenting your code
-    *and* a separate written descriptions of all code / implementations.
-    I should be able to suppress *all* code output in your document and
-    still be able to read and make sense of your answers.
-
-6.  You may use any packages discusses in class this far (numpy, scipy,
-    matplotlib, pandas, seaborn), if there are any additional packages
-    you would like to use you must clear them with me first.
-
-7.  Your first goal is to write code that can accomplish all of the
-    given tasks, however keep in mind that marking will also be based on
-    the quality of the code you write - elegant, efficient code will be
-    given better marks and messy, slow code will be penalized.
-
-<br />
-
-------------------------------------------------------------------------
-
 ## Gaussian Process Regression
 
 For this assignment you will be implementing a number of functions which
