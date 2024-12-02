@@ -1,6 +1,3 @@
-[![Repo Checks](https://github.com/Sta663-Sp22/midterm1_eschmidt45/workflows/Repo%20Checks/badge.svg)](https://github.com/Sta663-Sp22/midterm1_eschmidt45/actions?query=workflow:%22Repo%20Checks%22)
-
-
 ## Sta 663 - Statistical Computing and Computation - Midterm 1
 
 Due Monday, February 28th by 5:00 pm.
