@@ -1,7 +1,5 @@
 ## Sta 663 - Statistical Computing and Computation - Midterm 1
 
-Due Monday, February 28th by 5:00 pm.
-
 ## Gaussian Process Regression
 
 For this assignment you will be implementing a number of functions which
